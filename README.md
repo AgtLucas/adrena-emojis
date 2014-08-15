@@ -1,4 +1,3 @@
-adrena-emojis
-=============
+###Adrena Emojis
 
-An emoji/memes collection :)
+An emoji/memes collection! :)
